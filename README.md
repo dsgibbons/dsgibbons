@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @dsgibbons
-- 👀 I’m interested in all things Python, machine-learning, and mathematics.
-- 📫 How to reach me: [@steeperdescent](https://twitter.com/steeperdescent)
+
